@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "375296c8-56f9-4ff7-a04f-51bfcc8e25f3": {
+      "label": "FF031-3 Prime",
+      "is_offline": false,
+      "file_url": "https://apps.lib.jmu.edu/audiannotate/FF031.mp4",
+      "duration": 3490
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Visual",
+  "label": "FF031-3",
+  "created_at": "2024-10-02T16:07:05.130Z",
+  "created_by": "JMU-AudiAnnotate",
+  "updated_at": "2024-10-02T16:07:05.130Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
